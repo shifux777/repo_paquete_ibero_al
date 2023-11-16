@@ -1,0 +1,6 @@
+ibero_al.py
+setup.py
+paquete_ibero_al.egg-info/PKG-INFO
+paquete_ibero_al.egg-info/SOURCES.txt
+paquete_ibero_al.egg-info/dependency_links.txt
+paquete_ibero_al.egg-info/top_level.txt
