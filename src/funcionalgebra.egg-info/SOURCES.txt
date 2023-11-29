@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/funcionalgebra/__init__.py
+src/funcionalgebra/example.py
+src/funcionalgebra.egg-info/PKG-INFO
+src/funcionalgebra.egg-info/SOURCES.txt
+src/funcionalgebra.egg-info/dependency_links.txt
+src/funcionalgebra.egg-info/top_level.txt
