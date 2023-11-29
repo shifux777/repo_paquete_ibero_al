@@ -1,8 +1,8 @@
 #TEST
 
 
-import import ibero_al as AL
-det2=det2x2() 
+import __init__ as a
+det2=al.det2x2()
 det3=det3x3()
 magn=magnitud()
 direccion =direccion()
