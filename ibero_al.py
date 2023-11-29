@@ -1,3 +1,4 @@
+import math
 #Primera funcion: Determinantes de matrices 2x2
 def det2x2():
     a11 = float(input("Escriba el valor de a11: "))
@@ -64,16 +65,5 @@ def suma2v():
 
     print ("El vector resultante de la suma es:", sumadex, ",", sumadey)
 
-import math
 
-#TEST
 
-det2=det2x2()
-
-det3=det3x3()
-
-magn=magnitud()
-
-direccion =direccion()
-
-Suma=suma2v()
